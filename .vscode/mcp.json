@@ -1,0 +1,13 @@
+{
+	"servers": {
+		"crudmcp": {
+			"type": "stdio",
+			"command": "npm",
+			"args": [
+				"run",
+				"start"
+			]
+		}
+	},
+	"inputs": []
+}
